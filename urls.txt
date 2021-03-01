@@ -1,0 +1,4 @@
+http://localhost:8080/getInterestPerMonth?amount=100.00&rate=12.0&noOfMonths=12
+http://localhost:8081/getMortgagePlan?deposit=500.00&propertyValue=1000.0&loanAmount=500.00&mortgageType=buy-to-let
+http://localhost:8081/getMortgagePlan?deposit=500.00&propertyValue=1000.0&loanAmount=500.00&mortgageType=re-mortgage&repaymentTimeInYears=10
+http://localhost:8081/getMortgagePlan?deposit=500.00&propertyValue=1000.0&loanAmount=500.00&mortgageType=first-time-buyer&repaymentTimeInYears=10
